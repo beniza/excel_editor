@@ -108,7 +108,12 @@ A powerful, user-friendly web application for viewing, editing, and managing Exc
 
 The React Excel Editor can be deployed in various ways. For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
 
-Common deployment options include:
+### Live Demo
+
+You can try out the application without installing it by visiting our Vercel deployment:
+[https://react-excel-editor-1q5u0dqrc-benizasubscribe-gmailcoms-projects.vercel.app/](https://react-excel-editor-1q5u0dqrc-benizasubscribe-gmailcoms-projects.vercel.app/)
+
+### Common Deployment Options
 
 - Static hosting services (Netlify, Vercel, GitHub Pages)
 - Traditional web servers (Apache, Nginx)
