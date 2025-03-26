@@ -111,7 +111,7 @@ The React Excel Editor can be deployed in various ways. For detailed deployment 
 ### Live Demo
 
 You can try out the application without installing it by visiting our Vercel deployment:
-[https://react-excel-editor-1q5u0dqrc-benizasubscribe-gmailcoms-projects.vercel.app/](https://react-excel-editor-1q5u0dqrc-benizasubscribe-gmailcoms-projects.vercel.app/)
+[Excel Editor/](https://react-excel-editor.vercel.app/)
 
 ### Common Deployment Options
 
